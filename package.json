@@ -1,0 +1,25 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "A data-driven test automation framework built with **Python**, **Selenium**, and **Pytest** targeting a real e-commerce web application. Demonstrates the Page Object Model pattern, dynamic locator strategies, REST API testing with chained calls, and HTML report generation.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igniteo7/ecommerce-selenium-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igniteo7/ecommerce-selenium-framework/issues"
+  },
+  "homepage": "https://github.com/igniteo7/ecommerce-selenium-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
